@@ -14,4 +14,4 @@ This project was about analyzing an IMDb movie database using SQL. I wrote a bun
 - That SQL window functions are super useful for trend analysis
 
 ## File
-- `project.sql`
+- `imdb-movie-analysis.sql`
